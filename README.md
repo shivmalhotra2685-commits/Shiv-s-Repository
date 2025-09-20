@@ -5,6 +5,8 @@ Link for test management - https://test-management.browserstack.com/projects/238
 End-to-End Automation 
 https://github.com/shivmalhotra2685-commits/python_code_uitest/tree/main
 
-Test Management -- https://automate.browserstack.com/projects/Shiv_Aditya_Rohit_Team/builds/UI_test/1?tab=insights&public_token=9c4bbffd9f166f314367eddadf2a01475ffd01acadb0f15f1b6a1f76c0873d05
+Test Management and Insights / Dashboard 1 -- https://automate.browserstack.com/projects/Shiv_Aditya_Rohit_Team/builds/UI_test/1?tab=insights&public_token=9c4bbffd9f166f314367eddadf2a01475ffd01acadb0f15f1b6a1f76c0873d05
+
+Test Management and Insights / Dashboard 2 - https://automate.browserstack.com/projects/Shiv_Aditya_Rohit_Team/builds/UI_test/2?public_token=9c4bbffd9f166f314367eddadf2a01475ffd01acadb0f15f1b6a1f76c0873d05
 
 
